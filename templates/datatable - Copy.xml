@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myXMLList>
+  <ListItem>
+    <c0>How many bathrooms</c0>
+    <c1>Bathtubs and walls tile cleaned, Shower and shower door cleaned and disinfected, Mirrors cleaned, Counters and sink cleaned, Floors washed, Toilet cleaned and disinfected, Polish faucet Outside cabinets cleaned, Cobwebs removed Dust surfaces, Wipe down baseboards, Wipe down windowsills, Wipe down fixture and switches, Spot clean the door on both sides.</c1>
+    <c2>35</c2>
+    <c3>5000</c3>
+    <c4>yes</c4>
+    <c5></c5>
+    <c6>3</c6>
+    <c7>5</c7>
+    <c8>2</c8>
+    <c9>6</c9>
+    <c10>10</c10>
+    <c11>5</c11>
+    <c12>11</c12>
+    <c13>5000</c13>
+    <c14>10</c14>
+    <c15>500</c15>
+    <c16>5</c16>
+  </ListItem>
+  <ListItem>
+    <c0>How many bedrooms</c0>
+    <c1>Dust surfaces, Mop floors Vacuum carpets, Remove cobwebs, Clean glass and mirrors, Wipe down windowsills</c1>
+    <c2>15</c2>
+    <c3>5000</c3>
+    <c4>yes</c4>
+    <c5></c5>
+    <c6>4</c6>
+    <c7>10</c7>
+    <c8>3</c8>
+    <c9>11</c9>
+    <c10>17</c10>
+    <c11>4</c11>
+    <c12>18</c12>
+    <c13>5000</c13>
+    <c14>5</c14>
+    <c15>500</c15>
+    <c16>5</c16>
+  </ListItem>
+  <ListItem>
+    <c0> Oven inside cleaned</c0>
+    <c1></c1>
+    <c2>20</c2>
+    <c3>1</c3>
+    <c4>yes</c4>
+    <c5></c5>
+    <c6></c6>
+    <c7></c7>
+    <c8></c8>
+    <c9></c9>
+    <c10></c10>
+    <c11></c11>
+    <c12></c12>
+    <c13></c13>
+    <c14></c14>
+    <c15>500</c15>
+    <c16>5</c16>
+  </ListItem>
+  <ListItem>
+    <c0>Fridge inside cleaned</c0>
+    <c1></c1>
+    <c2>20</c2>
+    <c3>1</c3>
+    <c4>yes</c4>
+    <c5></c5>
+    <c6></c6>
+    <c7></c7>
+    <c8></c8>
+    <c9></c9>
+    <c10></c10>
+    <c11></c11>
+    <c12></c12>
+    <c13></c13>
+    <c14></c14>
+    <c15>500</c15>
+    <c16>5</c16>
+  </ListItem>
+</myXMLList>
